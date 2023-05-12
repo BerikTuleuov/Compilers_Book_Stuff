@@ -1,1 +1,40 @@
 A folder for batch scripts and utilities
+
+Content of E:\Programs directory
+
+E:\Users>dir E:\Programs /O
+ Volume in drive E is 64GBEXFAT
+ Volume Serial Number is 7065-2ACC
+
+ Directory of E:\Programs
+
+02/24/2023  03:33 PM    <DIR>          .
+02/24/2023  03:33 PM    <DIR>          ..
+02/24/2023  04:05 PM    <DIR>          bin
+03/04/2023  11:10 PM    <DIR>          cmake-3.25.2-x86_64
+04/02/2023  11:04 PM    <DIR>          CodeBlocks-20.03
+03/13/2023  06:07 PM    <DIR>          ConEmu-221218
+08/06/2022  01:57 AM    <DIR>          EWDK_COMPACT
+03/17/2023  06:18 PM    <DIR>          Far30b5577_x64
+04/03/2023  10:47 AM    <DIR>          Geany-1.38
+04/03/2023  12:48 PM    <DIR>          Kate-22.12.3-1992
+04/03/2023  10:28 AM    <DIR>          lessmsi-1.10.0
+03/10/2023  05:55 PM    <DIR>          mingw64-12.2.0
+05/12/2018  10:29 AM    <DIR>          mingw64-8.1.0
+10/31/2021  07:05 AM    <DIR>          MinGW-nuwen
+04/24/2013  12:22 PM    <DIR>          msys
+01/27/2023  06:08 AM    <DIR>          msys64
+04/08/2023  07:00 PM    <DIR>          nasm-2.16.01
+04/15/2023  12:51 AM    <DIR>          OpenSSL
+03/04/2023  11:44 PM    <DIR>          python-3.11.2
+04/02/2023  09:29 PM    <DIR>          QtCreator-mingw-10.0.0
+04/03/2023  10:05 AM    <DIR>          QtCreator-mingw-5.0.2
+04/02/2023  10:08 PM    <DIR>          QtCreator-mingw-9.0.2
+04/02/2023  09:48 PM    <DIR>          QtCreator-msvc-10.0.0
+04/02/2023  10:18 PM    <DIR>          QtCreator-msvc-9.0.2
+04/08/2023  05:59 PM    <DIR>          Strawberry-Perl-5.32.1.1
+03/10/2023  05:34 PM    <DIR>          winlibs-posix-seh-gcc-12.2.0-mingw-w64-ucrt
+               0 File(s)              0 bytes
+              26 Dir(s)  25,251,282,944 bytes free
+
+E:\Users>
